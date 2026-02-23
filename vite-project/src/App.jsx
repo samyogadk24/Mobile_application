@@ -1,5 +1,5 @@
 import Register from "./components/Register/Register";
-import login from "./components/login/login";
+import Login from "./components/Login/Login";
 
 
 
@@ -9,10 +9,11 @@ function App(){
 
       <Register/>
 
-      <login/>
+     <Login/>
 
 
-    </div>
+    </div> 
+ 
 
   )
 }
