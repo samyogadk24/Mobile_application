@@ -1,4 +1,4 @@
-import input from "../Input/input";
+
 function Register() {
   return (
     <div className="min-h-screen flex items-center justify-center">

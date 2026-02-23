@@ -1,4 +1,6 @@
 import React from "react";
+
+
 export default function input({LabelName, type, placeholder}){
     return(
        <div>
